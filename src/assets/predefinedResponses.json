@@ -1,0 +1,123 @@
+{
+	"Quên mật khẩu": "Nếu bạn quên mật khẩu, bạn có thể truy cập trang:\nhttps://bambuup.com/forgot-password\nđể đặt lại mật khẩu của mình.\nVui lòng nhập địa chỉ email đã đăng ký của bạn và làm theo hướng dẫn được gửi đến email để đặt lại mật khẩu. Nếu bạn gặp bất kỳ vấn đề nào, hãy liên hệ với bộ phận hỗ trợ của chúng tôi để được giúp đỡ.",
+	"Nhà cung cấp": {
+		"text": "BambuUP hỗ trợ các nhà cung cấp dịch vụ với nhiều giải pháp tiện ích.",
+		"options": [
+			"Nông nghiệp và tài nguyên biển",
+			"Nông nghiệp thực phẩm",
+			"Sinh học",
+			"Truyền thông",
+			"Máy tính",
+			"Khách hàng",
+			"Số hóa",
+			"Thị trường điện tử",
+			"Điện tử, Công nghệ thông tin và viễn thông",
+			"Thị trường năng lượng",
+			"Công nghệ năng lượng",
+			"Sản xuất công nghiệp, Vật liệu và Công nghiệp vận chuyển",
+			"Sản phẩm công nghiệp",
+			"Công nghệ công nghiệp",
+			"Đo lường và Tiêu chuẩn",
+			"Y tế sức khỏe",
+			"Những mối quan tâm về Kinh tế và Xã hội",
+			"Bảo vệ Con người và Môi trường",
+			"Sự bền vững"
+		],
+		"back_flag": true
+	},
+	"Sinh học": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=697&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Nông nghiệp thực phẩm": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=693&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Nông nghiệp và tài nguyên biển": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=689&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Truyền thông": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=705&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Máy tính": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=711&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Khách hàng": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=719&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Số hóa": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=726&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Thị trường điện tử": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=728&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Điện tử, Công nghệ thông tin và viễn thông": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=737&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Thị trường năng lượng": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=746&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Công nghệ năng lượng": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=759&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Sản xuất công nghiệp, Vật liệu và Công nghiệp vận chuyển": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=785&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Sản phẩm công nghiệp": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=767&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Công nghệ công nghiệp": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=774&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Đo lường và Tiêu chuẩn": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=797&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Y tế sức khỏe": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=804&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Những mối quan tâm về Kinh tế và Xã hội": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=820&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Bảo vệ Con người và Môi trường": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=815&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	},
+	"Sự bền vững": {
+		"text": "https://bambuup.com/marketplace?sort_by=changed&sort_order=DESC&page=&keyword=&location=&industry=831&solution_type=&collab_model=&business_problem=",
+		"options": ["Chọn lại"],
+		"back_flag": false
+	}
+}
